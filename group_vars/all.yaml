@@ -1,0 +1,3 @@
+ansible_user: josh
+ansible_password: kool
+ansible_network_os: ios

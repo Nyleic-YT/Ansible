@@ -1,0 +1,15 @@
+[all]
+r1
+r2
+r3
+r4
+[north]
+r1
+r2
+[south]
+r3
+r4
+[west]
+r1
+[east]
+r2

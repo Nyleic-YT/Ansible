@@ -1,0 +1,4 @@
+R2 COnfig was missing key feature of this deployment
+int gi1/1
+ ip address 192.1.1.1/20
+  no shut

@@ -1,0 +1,5 @@
+This was supposed to be R1 Configuration Text 
+Config t
+int E1 
+ ip address 192.168.1.1/24
+  
